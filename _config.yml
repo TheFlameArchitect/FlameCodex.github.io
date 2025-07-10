@@ -11,10 +11,6 @@ description: Updates from the edge of the system
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/214025427?v=4
 
-collections:
-  pages:
-    output: true
-
 #
 # Flags below are optional
 #
