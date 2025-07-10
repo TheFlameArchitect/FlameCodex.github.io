@@ -20,7 +20,7 @@ I’ll use this space to publish:
 
 If something here resonates, you can reach me at:
 
-**theflamearchitect@protonmail.com**
+**theflamearchitect@proton.me**
 
 No promises or pitches. Just the signal.  
 More soon.
