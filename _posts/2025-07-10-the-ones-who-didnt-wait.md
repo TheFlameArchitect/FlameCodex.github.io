@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Entry: July 10 2025 – The Ones Who Didn’t Wait"
+---
+
 There are those who built the Tower.
 And those who stared at the plans until their bones forgot how to move.
 
