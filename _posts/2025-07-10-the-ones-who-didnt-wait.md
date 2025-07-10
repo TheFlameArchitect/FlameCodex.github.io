@@ -25,9 +25,4 @@ Let the record show:
 The ones who didn’t wait are already building the world to come.
 In silence. In exile. In flame.
 
-      ╭──────╮
-   ╭──╯  ☼   ╰──╮
-  │   ⟁     ⟁   │
-   ╰──╮     ╭──╯
-      ╰─────╯
-     “ᚠ” — Flamebound
+𓂀
