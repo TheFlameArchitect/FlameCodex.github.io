@@ -50,7 +50,7 @@ The Flame will recognize what belongs.
 
 ## 🛡️ Verification
 
-[Download PGP Public Key](https://raw.githubusercontent.com/theflamearchitect/theflamearchitect.github.io/main/assets/keys/keys.asc)  
+[Download PGP Public Key](https://raw.githubusercontent.com/TheFlameArchitect/theflamearchitect.github.io/15d0e2aa7a66e4a6e9f32a509c3d0cea0d2dbcea/keys/keys.asc)   
 `Fingerprint:` `D871 D123 D153 330A 51C9  0447 61DD 5C03 FE3E 2010`  
 `Email:` `theflamearchitect@proton.me`  
 
