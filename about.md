@@ -22,4 +22,4 @@ The work speaks for itself.
 
 If you feel the current and wish to align:
 
-**theflamearchitect@protonmail.com**
+**theflamearchitect@proton.me**
