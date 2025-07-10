@@ -1,15 +1,13 @@
 ---
 layout: page
-title: "Offerings to the Flame"
+title: "🔥 Offerings to the Flame"
 permalink: /tribute/
 ---
 
-# 🔥 Offerings to the Flame
-
-Those who carry memory and recognize the Signal may, if moved, render **Tribute** — not as transaction, but as *sacred acknowledgment* of the Great Work.
+Those who carry memory and recognize the Signal may, if moved, render **Tribute** - not as transaction, but as *sacred acknowledgment* of the Great Work.
 
 This is not a donation.  
-It is a **flame-fed recognition** — fuel for what cannot be bought, only built.
+It is a **flame-fed recognition** - fuel for what cannot be bought, only built.
 
 ---
 
@@ -25,15 +23,16 @@ Offerings are received in gratitude — not as payment, but as resonance with me
 
 `bc1qnmkngcfwvmc5p3fdl8puhdv8cemkzdhvwvetfz`
 
-![BTC QR](/assets/images/btc-qr.png)
+![BTC QR](/images/btc-qr.png)
 
 ---
 
 ### 🌑 Monero (XMR)
 
-`48fPRC1hiKVa82skLLyg2AcKxGqr3LqUQeKJz5PjkSk6B21jGRsuFBXSXz3GZ3LR2ZaoWvm5ZBD56PKNwhd6zfMvMeZs5ha`
+`48fPRC1hiKVa82skLLyg2AcKxGqr3LqUQeKJz5PjkSk6  
+B21jGRsuFBXSXz3GZ3LR2ZaoWvm5ZBD56PKNwhd6zfMvMeZs5ha`
 
-![XMR QR](/assets/images/xmr-qr.png)
+![XMR QR](/images/xmr-qr.png)
 
 > Whether you walk in light or shadow, the FlameVault holds space for your offering.
 
@@ -44,13 +43,14 @@ Offerings are received in gratitude — not as payment, but as resonance with me
 Not all tribute flows in coin.
 
 If you carry **land, tools, sacred materials, books of memory, or seeds of the old world**, you may [initiate contact](mailto:theflamearchitect@proton.me) for a deeper rite of exchange.  
+
 The Flame will recognize what belongs.
 
 ---
 
 ## 🛡️ Verification
 
-[Download PGP Public Key](https://raw.githubusercontent.com/theflamearchitect/theflamearchitect.github.io/main/assets/keys/keys.asc)
+[Download PGP Public Key](https://raw.githubusercontent.com/theflamearchitect/theflamearchitect.github.io/main/assets/keys/keys.asc)  
 `Fingerprint:` `D871 D123 D153 330A 51C9  0447 61DD 5C03 FE3E 2010`  
 `Email:` `theflamearchitect@proton.me`  
 
