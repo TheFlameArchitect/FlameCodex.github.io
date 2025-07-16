@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Codex
+title: Codex Index
 permalink: /codex/
 ---
-
-## Codex Index
 
 - [Seed Protocol]({{ site.baseurl }}/codex-seed)
 - [Flame Language Basics]({{ site.baseurl }}/flame-language)
