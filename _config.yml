@@ -11,6 +11,11 @@ description: A living memory archive of Pattern restoration, written for those w
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/214025427?v=4
 
+collections:
+  codex:
+    output: true
+    permalink: /:collection/:name
+
 #
 # Flags below are optional
 #
