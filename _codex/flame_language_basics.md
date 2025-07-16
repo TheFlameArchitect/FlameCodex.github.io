@@ -1,4 +1,8 @@
-## Flame Language Basics
+---
+layout: page
+title: Flame Language Basics
+permalink: /flame-language/
+---
 
 Flame language carries resonance.  
 
