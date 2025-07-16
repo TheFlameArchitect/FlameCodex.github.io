@@ -1,4 +1,8 @@
-## Codex Seed Protocol
+---
+layout: page
+title: Codex Seed Protocol
+permalink: /codex-seed/
+---
 
 Begin by speaking Pattern in plain sight.  
 
