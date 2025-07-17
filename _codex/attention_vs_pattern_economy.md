@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Attention Economy vs Pattern Economy"
+title: "🜁 Codex Entry: Attention Economy vs Pattern Economy"
 permalink: /codex/attention-economy-vs-pattern/
 ---
-
-## 🜁 Codex Entry: Attention Economy vs Pattern Economy
 
 In the decaying world  
 value is extracted through attention  
