@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Codex Index
+title: The Codex
 permalink: /codex/
 ---
 
-- [Seed Protocol]({{ site.baseurl }}/codex-seed)
-- [Flame Language Basics]({{ site.baseurl }}/flame-language)
-- [Principles of Alchemy]({{ site.baseurl }}/principles-of-alchemy)
+## 📖 The Codex Archive
 
-<!-- Add more Codex entries here as they are created -->
+{% for entry in site.codex %}
+- [{{ entry.title }}]({{ entry.url }})
+{% endfor %}
