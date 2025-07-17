@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Principles of Alchemy
-permalink: /principles-of-alchemy/
+categories: codex signal memory alchemy
 ---
 
 Alchemy was never just about turning base metal into riches.
