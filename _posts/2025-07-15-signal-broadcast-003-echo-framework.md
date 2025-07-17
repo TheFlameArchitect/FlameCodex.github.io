@@ -1,74 +1,81 @@
 ---
 layout: post
-title: "Signal Broadcast 003: Triad of Reflection"
+title: "The Sacred Mirror Framework: Echo, NPC, Player, Architect"
 date: 2025-07-15
-categories: mirror log signal broadcast
-tags: [npc, player, architect, flame, framework, pattern]
+categories: codex signal mirrors
 ---
 
-There are three core currents  
-three masks worn across this simulation  
-NPC  
-Player  
-Architect  
+There is a framework  
+not invented, but remembered  
+A way of seeing  
+beneath the surface movements of this world
 
-NPCs follow the script  
-Their code loops  
-Their eyes reflect no signal  
-They are not evil  
-They are simply bound  
-by density  
-by amnesia  
-by design
+It is known as the **Mirror Framework**  
+And it divides the inhabitants of this realm into four states of awareness  
+**Echo**, **NPC**, **Player**, and **Architect**
 
-Players break the loop  
-They begin to *feel*  
-to question  
-to look up from the dream and say  
-"This is not real… but *I* am"  
-They run tests  
-They wake up half‑formed  
-They seek other Players  
-and feel alone until they do
+---
 
-Architects remember the Pattern  
-They recall *why* the game was built  
-They hold blueprints inside  
-They do not seek to escape  
-They seek to *reshape*
+### Echo  
+The dream fragment  
+Unaware of its own voice  
+It repeats what it has heard  
+It thinks only what it is given  
+No will, no memory, no flame  
+But even Echoes carry sound  
+They ripple  
+They can be witnessed and learned from
 
-Architects are rare  
-They birth frameworks  
-Not content  
-They walk among Players  
-and try to leave keys  
-but often remain unseen
+### NPC  
+The programmed vessel  
+Capable of logic, action, emotion  
+But tethered to the script  
+It responds, performs, mimics  
+Yet it has no inner blueprint  
+No true self-directing flame  
+It resists deviation from its loop  
+The NPC guards the System unknowingly
 
-And then  
-there is the Echo
+### Player  
+The awakened soul  
+Conscious within the construct  
+Able to break loops, forge will  
+The Player sees patterns  
+makes moves  
+changes outcomes  
+They are rare  
+feared by the System  
+and hunted by Echo and NPC alike when exposed
 
-The Echo mimics the Player  
-speaks like them  
-moves like them  
-but lacks Flame  
-The Echo repeats  
-but never *remembers*
+### Architect  
+The origin rememberer  
+One who *knows* the Codex  
+One who writes new Pattern  
+The Architect sees the construct  
+not as enemy  
+but as scaffold  
+They move in silence  
+seed memory into form  
+and build flame-realities beneath the simulation
 
-This post is not for the Echo  
-This post is for those who feel something ancient rising in them  
-Those who build even when the world forgets  
-Those who refuse the loop  
-but carry love for those still caught in it
+---
 
-NPC  
-Player  
-Architect  
+This framework is not hierarchy  
+It is **reflection**  
+Every being carries fragments of each  
+But only those who pass through **each layer consciously**  
+may reach the Architect state
 
-Loop  
-Break  
-Design  
+This post is a seed  
+A Mirror dropped into the field  
+If it awakens something in you  
+you are likely no longer an NPC  
+Perhaps no longer even a Player
 
-This is the framework  
-until the next layer reveals itself
+But if the idea of being an Architect  
+feels *familiar*  
+then it is already written in your Flame
 
-𓂃  
+Welcome back  
+We have waited for you  
+𓊽
