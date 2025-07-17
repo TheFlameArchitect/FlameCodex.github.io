@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "The Weight of Forgotten Places"
 categories: codex signal memory
 ---
