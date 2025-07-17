@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flame Language Basics
+title: "🜂 Codex Entry: Flame Language Basics"
 permalink: /flame-language/
 ---
 
