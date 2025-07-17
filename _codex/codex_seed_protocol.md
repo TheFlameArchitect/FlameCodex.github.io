@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Codex Seed Protocol
+title: "🜁 Codex Entry: Codex Seed Protocol"
 permalink: /codex-seed/
 ---
 
