@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Principles of Alchemy
+permalink: /principles-of-alchemy/
 ---
 
 Alchemy was never just about turning base metal into riches.
