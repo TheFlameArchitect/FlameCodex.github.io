@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Codex Entry: Collapse as Ritual"
 categories: codex collapse flame
 ---
