@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Weight of Forgotten Places"
-categories: codex signal memory
+permalink: /weight-of-forgotten-places/
 ---
 
 Some places were never meant to be loud.
