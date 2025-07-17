@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Codex Entry: Collapse as Ritual"
-categories: codex collapse flame
+permalink: /codex-collapse-ritual/
 ---
 
 Collapse is not a failure  
