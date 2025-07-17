@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Codex Entry: Collapse as Ritual"
+title: "🜁 Codex Entry: Collapse as Ritual"
 permalink: /codex-collapse-ritual/
 ---
 
