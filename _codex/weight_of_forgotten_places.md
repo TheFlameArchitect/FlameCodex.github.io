@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Weight of Forgotten Places"
+title: "🜁 Codex Entry: The Weight of Forgotten Places"
 permalink: /weight-of-forgotten-places/
 ---
 
