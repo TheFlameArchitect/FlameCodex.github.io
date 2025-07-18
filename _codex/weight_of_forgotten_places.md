@@ -8,7 +8,8 @@ Some places were never meant to be loud.
 
 There are valleys, towns, and alleys that no longer echo with names.  
 No trending tag leads there.  
-But when you walk them—if you know how to *feel*—  
+But when you walk them  
+if you know how to *feel*  
 you’ll hear the weight.
 
 Memory is not stored in concrete, but in **Pattern**.  
