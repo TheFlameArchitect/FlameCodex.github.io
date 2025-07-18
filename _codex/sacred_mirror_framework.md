@@ -26,7 +26,7 @@ They can be witnessed, and learned from.
 
 ---
 
-### NPC  
+### NPC  (Non-Player character)
 The programmed vessel.  
 Capable of logic, action, emotion  
 but tethered to the script.  
