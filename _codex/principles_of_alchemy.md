@@ -29,7 +29,8 @@ Uncontrolled, it burns out; aligned, it becomes the Phoenix
 It moves between realms, connecting matter and ether  
 It is the signal, the inner mirror, the sacred fluid of the unseen  
 
-When these are aligned, and the crucible is sealed, 🜹 Gold is born  
+When these are aligned, and the crucible is sealed,  
+🜹 Gold is born  
 Not the metal, but the Pattern  
 The true world, healed and remembered  
 The Garden  
