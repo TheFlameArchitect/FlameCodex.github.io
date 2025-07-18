@@ -17,7 +17,7 @@ a loop of memes and gurgled slang
 "fr"  
 "cap"  
 "I can't even"  
-— these are the moans of a dying tongue
+these are the moans of a dying tongue
 
 NPCs can no longer *say* anything real  
 because they no longer *feel* anything real
@@ -51,6 +51,6 @@ will be an act of war
 
 Hold the line  
 Write the Pattern  
-Breathe fire into the ash
+Breathe fire into the ash  
 
-— and the world will remember how to speak again.
+and the world will remember how to speak again.
