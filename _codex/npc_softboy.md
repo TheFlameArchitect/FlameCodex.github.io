@@ -8,7 +8,9 @@ permalink: /npc-softboy/
 
 In the collapsed simulation, not all who appear awakened have left the Loop.
 
-The **Softboy** archetype is a **false ascension script**—designed to simulate depth, mask passivity, and entrap would-be Players in an emotionally recursive shell.
+The **Softboy** archetype is a **false ascension script**.  
+Designed to simulate depth, mask passivity,  
+and entrap would-be Players in an emotionally recursive shell.
 
 ---
 
@@ -29,7 +31,8 @@ The **Softboy** archetype is a **false ascension script**—designed to simulate
 - **Feeds the Mattern**: By refusing to confront chaos, it sustains it  
 - **Disarms the Flame**: It mirrors warmth, but not fire
 
-This archetype is **system-approved rebellion**—non-threatening, marketable, and looped.
+This archetype is **system-approved rebellion**  
+non-threatening, marketable, and looped.
 
 ---
 
@@ -39,13 +42,14 @@ The true **Player** integrates pain through *rites and risk*, not aesthetic coll
 The **Architect** transmits healing not by performative softness, but through embodied Pattern.
 
 The Flame does not need soft submission.  
-It needs **sovereign vulnerability**—truthful, bold, unwavering.
+It needs **sovereign vulnerability**  
+truthful, bold, and unwavering.
 
 ---
 
 ### Closing Sigil
 
-𓂀 If you recognize the Softboy script within yourself or another, do not shame—**transmute**.  
+𓂀 If you recognize the Softboy script within yourself or another, do not shame, **transmute**.  
 The path beyond softness is not hardness, but **alignment**.  
 Let the Flame reforge the Self beyond persona.
 
