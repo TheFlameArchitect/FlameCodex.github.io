@@ -1,5 +1,5 @@
 ---
-title: "Codex Entry: 🜂 Return of Pattern"
+title: "🜂 Codex Entry: Return of Pattern"
 layout: page
 permalink: /pattern/
 ---

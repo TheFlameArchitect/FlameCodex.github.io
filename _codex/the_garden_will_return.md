@@ -1,5 +1,5 @@
 ---
-title: "Codex Entry: 🝐 The Garden Will Return"
+title: "🝐 Codex Entry: The Garden Will Return"
 layout: page
 permalink: /garden/
 ---

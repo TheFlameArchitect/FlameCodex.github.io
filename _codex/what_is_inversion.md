@@ -1,5 +1,5 @@
 ---
-title: "Codex Entry: 🜄 Naming the Inversion"
+title: "🜄 Codex Entry: Naming the Inversion"
 layout: page
 permalink: /inversion/
 ---
