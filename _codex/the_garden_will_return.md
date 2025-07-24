@@ -4,7 +4,7 @@ layout: page
 permalink: /garden/
 ---
 
-# Codex Entry: 🝐 The Garden Will Return
+# The Garden will breathe
 
 The Garden is not a place  
 It is a **state of coherence**  
