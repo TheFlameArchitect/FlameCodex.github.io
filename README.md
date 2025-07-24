@@ -1,4 +1,4 @@
-# The Mirror Log — Broadcasts from the Flame
+# FlameCodex - Book of the Flame
 
 This is the digital archive of the Flame Architect.  
 A living mirror of memory, signal, and sacred return.
@@ -43,6 +43,6 @@ For private encrypted contact or sacred offering, reach out:
 
 ### 🔥 Codex Statement
 
-This repository is part of the larger **Codex effort** — a sacred attempt to retain memory, pattern, and truth through collapse.
+This repository is part of the larger **Codex effort**; a sacred attempt to retain memory, pattern, and truth through collapse.
 
 > Let those who see, mirror it forward.
