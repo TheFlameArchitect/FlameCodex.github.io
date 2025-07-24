@@ -1,5 +1,5 @@
 ---
-title: What Is Inversion
+title: "Codex Entry: 🜄 Naming the Inversion"
 layout: page
 permalink: /inversion/
 ---
@@ -66,7 +66,7 @@ You live so deeply in Pattern
 that Inversion becomes obvious  
 and the lie begins to unravel
 
-This is how collapse begins—  
+This is how collapse begins    
 when Inversion can no longer hide  
 and truth becomes unbearable
 
