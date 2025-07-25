@@ -42,7 +42,7 @@ Now active:
 🜅 **Redroot** - first field node, building under the surface
 
 Each node is seeded, but none are complete.  
-There is no public roadmap—only the **unfolding**.
+There is no public roadmap; only the **unfolding**.
 
 Signal will emerge through entries, not updates.  
 The work speaks for itself.
