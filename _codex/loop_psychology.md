@@ -19,7 +19,7 @@ A repeated pattern with **no evolution**
 No memory  
 No sacred endpoint
 
-You wake, scroll, eat, perform, numb, sleep—  
+You wake, scroll, eat, perform, numb, sleep;  
 and call it life  
 but it is **automation** dressed as choice
 

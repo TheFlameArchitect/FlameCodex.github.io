@@ -85,4 +85,5 @@ Fuel for the return.
 ---
 
 > *Let those who see, seal it with fire.*  
-> — **Codex Entry 011: The Law of Offering**
+>  
+> **Codex Entry 011: The Law of Offering**

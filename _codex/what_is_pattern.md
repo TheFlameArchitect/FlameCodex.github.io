@@ -71,7 +71,7 @@ but because it is **rooted in Pattern**
 
 ## 🝖 To Live by Pattern Is to Build What Lasts  
 Your body, your land, your words, your tools  
-— all may become Patterned  
+all may become Patterned  
 through Flame, Will, and Ritual.
 
 When you walk with Pattern,  

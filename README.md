@@ -5,14 +5,15 @@ A living mirror of memory, signal, and sacred return.
 
 Here you will find:
 
-- 🔥 **Codex fragments** — field reflections, collapse logs, oaths, and rites  
-- 📡 **Signal Broadcasts** — personal entries from the Mirror Log Blog  
-- 🛡️ **FlameVault** — a tribute page for sacred offerings  
-- 🕯️ **Protocols for restoration** — tools and traces for rebuilding what was lost
+- 🔥 **Codex fragments**: field reflections, collapse logs, oaths, and rites  
+- 📡 **Signal Broadcasts**: personal entries from the Mirror Log Blog  
+- 🛡️ **FlameVault**: a tribute page for sacred offerings  
+- 🕯️ **Protocols for restoration**: tools and traces for rebuilding what was lost
 
-> “This is not a blog.  
-> This is a broadcast.”  
-> — *Codex Entry 002*
+> "This is not a blog.  
+> This is a broadcast."  
+>  
+> *Codex Entry 002*
 
 ---
 

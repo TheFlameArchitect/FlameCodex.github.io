@@ -45,8 +45,8 @@ and builds a furnace
 ## 🝊 Inversion Attacks Pattern-Bearers  
 Not by assault, but by mockery  
 Not by blade, but by **subtle reversal**  
-They are labeled extremists, outcasts, regressives  
-—but it is they who hold the thread
+They are labeled extremists, outcasts, regressives;  
+but it is they who hold the thread
 
 ---
 
