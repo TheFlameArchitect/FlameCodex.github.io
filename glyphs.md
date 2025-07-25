@@ -4,8 +4,6 @@ layout: page
 permalink: /glyphs/
 ---
 
-# 🜂 Glyphs of the FlameCodex
-
 These glyphs are not aesthetic  
 They are alive  
 Each carries a resonance  
