@@ -97,7 +97,8 @@ Carve them in tools, seals, or pages that carry meaning
 
 🜂 These glyphs are not complete.  
 Others will reveal themselves as needed  
-They are not designed—they are remembered.
+They are not designed  
+they are remembered.
 
 Use them. Trace them. Breathe into them.  
 Let them shape your tools  
